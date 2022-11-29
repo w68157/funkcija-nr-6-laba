@@ -1,1 +1,1 @@
-# labaratorium-6
+#funkcija
